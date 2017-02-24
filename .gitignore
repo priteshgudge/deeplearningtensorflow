@@ -1,1 +1,4 @@
 MNIST*
+model.ckpt*
+train_model.ckpt*
+checkpoint
