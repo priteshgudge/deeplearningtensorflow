@@ -2,3 +2,4 @@ MNIST*
 model.ckpt*
 train_model.ckpt*
 checkpoint
+model_finetuning*
